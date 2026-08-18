@@ -20,3 +20,11 @@ The formal programme lineage and negative results are summarized in [PROGRAMME-N
 Executable status is bounded by [EXECUTABLE-BOUNDARY.md](EXECUTABLE-BOUNDARY.md): a disposable non-authoritative conformance witness is admitted for falsification/replay; a general inference kernel, production API/MCP/service, persistent normative truth store, current-cut resolver, and operational enforcement authority remain **NOT ADMITTED**.
 
 The executable witness under `conformance-witness/` is research evidence/tooling only and does not mint semantic authority.
+
+## Phase II operating mode
+
+Phase I foundational discovery is complete. Phase II is governed by [PHASE-II-PROJECT-CONSTITUTION.md](PHASE-II-PROJECT-CONSTITUTION.md): the formal core stays frozen unless a concrete falsifying pressure satisfies the project reopen/admission rules. There is no automatic N13/N14 sequence.
+
+Open frontiers are mapped in [PHASE-II-RESEARCH-MAP.md](PHASE-II-RESEARCH-MAP.md). They are trigger-bound research spaces, not a mandatory backlog.
+
+Downstream/domain anomalies are classified through [PRESSURE-TO-PROGRAMME-PROTOCOL.md](PRESSURE-TO-PROGRAMME-PROTOCOL.md) before any new semantic programme is admitted. Vocabulary, representation, bridge, engineering, owner-boundary, and genuine core pressures must not be conflated.
