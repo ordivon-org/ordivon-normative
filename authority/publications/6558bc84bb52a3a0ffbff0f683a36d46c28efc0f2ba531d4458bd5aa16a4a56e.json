@@ -1,0 +1,482 @@
+{
+  "authorityRef": "authority:ordivon:research-owner:ordivon-normative",
+  "closeouts": [
+    {
+      "closure": [
+        {
+          "scope": "CURRENT_OWNER_BOUNDARY",
+          "status": "ESTABLISHED"
+        },
+        {
+          "scope": "FOUNDATION_LEVEL_ARCHITECTURE",
+          "status": "ESTABLISHED"
+        },
+        {
+          "scope": "NUMBERED_FOUNDATION_SERIES",
+          "status": "NOT_ADMITTED"
+        },
+        {
+          "scope": "UNIVERSAL_NORMATIVITY_OWNER",
+          "status": "NOT_ADMITTED"
+        }
+      ],
+      "epistemicVerdict": "ESTABLISHED_IN_SCOPE",
+      "evidenceScope": "Current Ordivon Normative materialized corpus at shared-repository semantic base 42c641db0557a8e09829a1917990cdc76568062f; sibling Network authority commits changed shared transport only and did not change this corpus root.",
+      "materialLineage": [
+        "PHR1 is the historical origin of current Ordivon Normative and remains preserved as origin history, not a numbered Foundation.",
+        "PHR2-PHR4 are deliberately outside the current Normative root as sibling derived/contested Post-Host research history and are not active Normative subprojects.",
+        "Numbered Foundation Count remains zero; no ONF or PHR numbered Foundation series is admitted.",
+        "Explanatory families are navigation-only compression over the three-part architecture and do not create numbered Foundations.",
+        "Generic Control/Regulation and generic Representation/conceptual-resource ownership are not owned by Ordivon Normative; their broader placement remains external/open rather than being resolved here."
+      ],
+      "profile": "LEGACY_EXTRACTION",
+      "provenance": [
+        "owners/ordivon-normative/README.md",
+        "owners/ordivon-normative/OWNER-CONTRACT.md",
+        "owners/ordivon-normative/FOUNDATION-ARCHITECTURE.md",
+        "owners/ordivon-normative/FAMILIES.md",
+        "owners/ordivon-normative/DERIVED-LAWS.md",
+        "owners/ordivon-normative/BRIDGES.md",
+        "owners/ordivon-normative/BOUNDARIES-NEGATIVE.md",
+        "owners/ordivon-normative/CLOSURE-REOPEN.md",
+        "owners/ordivon-normative/HISTORY-PHR1-ORIGIN.md",
+        "owners/ordivon-normative/PROVENANCE.md"
+      ],
+      "reopenPolicy": "Reopen the frozen foundation-level architecture only on a concrete counterexample showing a missing truth-condition family or falsifying an ownership/separation law. Downstream importance, numbering symmetry, engineering use, or the existence of law/institution/reason/authority artifacts does not reopen it or admit a numbered Foundation.",
+      "researchRef": "research:ordivon-normative:core-materialization-20260818",
+      "residualState": "NUMBERED_FOUNDATION_COUNT_ZERO; NO_ONF_OR_PHR_FOUNDATION_SERIES; GENERIC_CONTROL_REGULATION_AND_REPRESENTATION_OWNERSHIP_EXTERNAL_OPEN_ARCHITECTURE_QUESTIONS",
+      "resultRefs": [
+        "result:normative:owner-boundary-current",
+        "result:normative:numbered-foundation-count-zero-current-frozen",
+        "result:normative:anchor-interface-current-frozen",
+        "result:normative:generator-admission-structure-current-frozen",
+        "result:normative:derivation-transition-semantics-current-frozen",
+        "result:normative:onf-numbered-series-not-admitted",
+        "result:normative:phr-numbered-foundation-series-not-admitted",
+        "result:normative:universal-normativity-owner-not-admitted",
+        "result:normative:generic-institution-governance-owner-not-admitted",
+        "result:normative:generic-reasons-value-owner-not-admitted",
+        "result:normative:generic-control-regulation-not-owned-here",
+        "result:normative:phr1-historical-origin-preserved"
+      ],
+      "scopeRefs": [
+        "research-owner:ordivon-normative"
+      ],
+      "standing": [
+        "CURRENT",
+        "FROZEN"
+      ]
+    }
+  ],
+  "currentRecovery": {
+    "locator": "owners/ordivon-normative/README.md",
+    "targetRole": "OWNER_RESEARCH_CORPUS"
+  },
+  "kind": "ordivon.research-owner-publication",
+  "ownerResearchRef": "research-owner:ordivon-normative",
+  "profile": "LEGACY_EXTRACTION",
+  "schemaVersion": 1,
+  "source": {
+    "authorityBranch": "refs/heads/main",
+    "corpusRoot": "owners/ordivon-normative",
+    "kind": "git",
+    "repository": "https://github.com/zycxfyh/ordivon-research.git",
+    "sourceRevision": "42c641db0557a8e09829a1917990cdc76568062f"
+  },
+  "statements": [
+    {
+      "predicate": "OWNER_BINDING",
+      "scope": "OWNER",
+      "subjectRef": "research-owner:ordivon-normative",
+      "value": "ordivon-normative"
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "OWNER",
+      "subjectRef": "research-owner:ordivon-normative",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:owner-boundary-current",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:owner-boundary-current",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:owner-boundary-current",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:owner-boundary-current",
+      "value": "Current owner boundary: context-relative constitutive/normative admission, consequence and transformation semantics; excludes universal Normativity/Law/Institution/Governance/Authority simpliciter."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:owner-boundary-current",
+      "value": [
+        "OWNER_BOUNDARY"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:numbered-foundation-count-zero-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:numbered-foundation-count-zero-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:numbered-foundation-count-zero-current-frozen",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:numbered-foundation-count-zero-current-frozen",
+      "value": "Current numbered Foundation count is exactly zero; this is a positive architecture fact, not incomplete migration."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:numbered-foundation-count-zero-current-frozen",
+      "value": [
+        "FOUNDATION_ARCHITECTURE"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:anchor-interface-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:anchor-interface-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:anchor-interface-current-frozen",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:anchor-interface-current-frozen",
+      "value": "AnchorInterface is a non-numbered frozen foundation-level architecture component; external anchors remain externally owned."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:anchor-interface-current-frozen",
+      "value": [
+        "FOUNDATION_ARCHITECTURE_COMPONENT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generator-admission-structure-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generator-admission-structure-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generator-admission-structure-current-frozen",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generator-admission-structure-current-frozen",
+      "value": "GeneratorAdmissionStructure is a non-numbered frozen foundation-level architecture component supporting plural roots, applicability, supersession, conflict, gaps and indeterminacy."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generator-admission-structure-current-frozen",
+      "value": [
+        "FOUNDATION_ARCHITECTURE_COMPONENT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:derivation-transition-semantics-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:derivation-transition-semantics-current-frozen",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:derivation-transition-semantics-current-frozen",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:derivation-transition-semantics-current-frozen",
+      "value": "Constitutive/Normative Derivation-and-Transition Semantics is a non-numbered frozen foundation-level component for context-relative status, consequence, deontic output, competence/power and valid transformation."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:derivation-transition-semantics-current-frozen",
+      "value": [
+        "FOUNDATION_ARCHITECTURE_COMPONENT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:onf-numbered-series-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:onf-numbered-series-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:onf-numbered-series-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:onf-numbered-series-not-admitted",
+      "value": "No ONF numbered Foundation series is admitted."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:onf-numbered-series-not-admitted",
+      "value": [
+        "NEGATIVE_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr-numbered-foundation-series-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr-numbered-foundation-series-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr-numbered-foundation-series-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr-numbered-foundation-series-not-admitted",
+      "value": "No PHR numbered Foundation series is admitted into current Ordivon Normative."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr-numbered-foundation-series-not-admitted",
+      "value": [
+        "NEGATIVE_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:universal-normativity-owner-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:universal-normativity-owner-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:universal-normativity-owner-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:universal-normativity-owner-not-admitted",
+      "value": "Universal moral/epistemic/aesthetic/prudential Normativity and Normativity simpliciter are not admitted as this owner scope."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:universal-normativity-owner-not-admitted",
+      "value": [
+        "OWNER_BOUNDARY",
+        "NEGATIVE_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-institution-governance-owner-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-institution-governance-owner-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-institution-governance-owner-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-institution-governance-owner-not-admitted",
+      "value": "Generic institutions/organizations/governance and political/legal Constitution as institutional object are not admitted as Ordivon Normative owner scope."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-institution-governance-owner-not-admitted",
+      "value": [
+        "OWNER_BOUNDARY",
+        "NEGATIVE_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-reasons-value-owner-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-reasons-value-owner-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-reasons-value-owner-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-reasons-value-owner-not-admitted",
+      "value": "Generic reason-object ontology and robust reasons/value/ought/fittingness/good-reasoning/normative-explanation are not admitted as one Ordivon Normative owner scope."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-reasons-value-owner-not-admitted",
+      "value": [
+        "OWNER_BOUNDARY",
+        "NEGATIVE_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-control-regulation-not-owned-here",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-control-regulation-not-owned-here",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-control-regulation-not-owned-here",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-control-regulation-not-owned-here",
+      "value": "Generic Control/Regulation ownership is not admitted to Ordivon Normative; broader owner placement remains an external/open architecture question."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:generic-control-regulation-not-owned-here",
+      "value": [
+        "OWNER_BOUNDARY",
+        "NEGATIVE_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr1-historical-origin-preserved",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr1-historical-origin-preserved",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr1-historical-origin-preserved",
+      "value": "PHR1 is the only surviving independent owner from the Post-Host trajectory and is the historical origin of current Ordivon Normative; it is not a numbered Foundation."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:normative:phr1-historical-origin-preserved",
+      "value": [
+        "HISTORICAL_ORIGIN"
+      ]
+    }
+  ]
+}
