@@ -10,8 +10,8 @@ Normative semantic AuthorityVersionRef before implementation: `sha256:6558bc84bb
 
 `python3 run_regression.py`
 
-- fixture count: **61**
-- passed: **61**
+- fixture count: **66**
+- passed: **66**
 - failed: **0**
 - NCX: 16/16
 - NCF: 6/6
@@ -20,8 +20,9 @@ Normative semantic AuthorityVersionRef before implementation: `sha256:6558bc84bb
 - N5F: 9/9
 - N6F: 7/7
 - GDF: 8/8
+- HAG (actual Harness/Agent executable boundary checks): 5/5
 
-Runtime execution evidence: `job-01a015a6-3124-7973-a69e-6b8d119689ad`.
+Runtime execution evidence: `job-01a015a9-278d-7de2-9598-f207e4379f57`.
 
 ## Implementation invariant tests
 
@@ -33,7 +34,7 @@ Runtime execution evidence: `job-01a015a6-3124-7973-a69e-6b8d119689ad`.
 
 The tests cover fail-closed missing-cut behavior, neither/both signed states, support-only non-standing, blocked-path non-sign-flip, and multi-step assessment dependency.
 
-Runtime execution evidence: `job-01a015a6-545f-76b3-8bff-ca4d12de98cc`.
+Runtime execution evidence: `job-01a015a9-4b36-7b31-b4ba-e8077d8bf2fb`.
 
 ## Interpretation boundary
 

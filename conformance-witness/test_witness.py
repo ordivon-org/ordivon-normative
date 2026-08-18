@@ -14,9 +14,9 @@ class WitnessContractTests(unittest.TestCase):
     def test_full_frozen_family_manifest_passes(self) -> None:
         report = run_document(load_document(FIXTURES))
         self.assertTrue(report["pass"])
-        self.assertEqual(61, report["fixtureCount"])
+        self.assertEqual(66, report["fixtureCount"])
         self.assertEqual(
-            {"NCX": 16, "NCF": 6, "N3F": 8, "N4F": 7, "N5F": 9, "N6F": 7, "GDF": 8},
+            {"NCX": 16, "NCF": 6, "N3F": 8, "N4F": 7, "N5F": 9, "N6F": 7, "GDF": 8, "HAG": 5},
             {family: values["total"] for family, values in report["families"].items()},
         )
 
