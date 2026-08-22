@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "kind": "ordivon.post-cutover-authority-locator-repair",
+  "date": "2026-08-22",
+  "cutoverId": "sha256:b86a6fbe1f091fa51efaf552015bf18c7e57a6e2b63c9e76bb36108f825f59c1",
+  "repository": "ordivon-normative",
+  "previousAuthorityVersionRef": "sha256:d0a1149b8c0278e5ca53122e9bc053c45ed64c0831e7cdb2616981361e6be9f3",
+  "currentAuthorityVersionRef": "sha256:f05ee2de3ebdf2b47fae3951f652a0e38089d328e0bdeeca563553407b78a78c",
+  "repairScope": "CURRENT_PUBLICATION_STANDALONE_PROVENANCE_AND_PHYSICAL-LOCATOR_CONSISTENCY",
+  "theoryStandingChanged": false,
+  "resultStandingChanged": false,
+  "historicalPublicationsRewritten": false,
+  "sourceRevision": "d4b7a9c11b4541bd2bd0fda894256dbd4294bbf5"
+}
