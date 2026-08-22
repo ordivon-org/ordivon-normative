@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "ordivon.physical-owner-cutover-record",
+  "cutoverId": "sha256:b86a6fbe1f091fa51efaf552015bf18c7e57a6e2b63c9e76bb36108f825f59c1",
+  "date": "2026-08-22",
+  "repository": "ordivon-normative",
+  "ownerResearchRef": "research-owner:ordivon-normative",
+  "authorityRef": "authority:ordivon:research-owner:ordivon-normative",
+  "currentAuthorityVersionRef": "sha256:d0a1149b8c0278e5ca53122e9bc053c45ed64c0831e7cdb2616981361e6be9f3",
+  "atlasLiveSourceCutover": "ba71026766742a7b688b4a1ef1a40ace4e7dc456",
+  "sourceParent": "ordivon-research",
+  "sourceParentRetirement": "065b61e58aaa59038224a07cfb5a715f15d98cbe",
+  "semanticChange": false,
+  "serviceTopologyChange": false,
+  "oldParentPathRole": "NON_AUTHORITATIVE_TOMBSTONE",
+  "historicalRecovery": "GIT_HISTORY_REQUIRED"
+}

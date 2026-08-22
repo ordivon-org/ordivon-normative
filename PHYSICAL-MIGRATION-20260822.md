@@ -1,6 +1,6 @@
 # Physical Repository Migration — 2026-08-22
 
-Status: **remote repository established; authority cutover pending**.
+Status: **CUTOVER COMPLETE — current standalone physical home**.
 
 This repository is the prepared standalone physical home for **Ordivon Normative**. The move changes physical placement and Git topology only. It does **not** change semantic owner identity, referent, Foundation/derived-theory standing, historical authority publications, consumer semantics, or runtime/service topology.
 
@@ -15,4 +15,4 @@ The filtered history preserves the owner-relevant genealogy and exact source-own
 
 ## Cutover rule
 
-Creation of this repository alone does not make it current physical authority. Current physical authority changes only after live consumers are switched and one explicit cutover record is committed. Until then, the old source subtree remains the current locator.
+Cutover is complete under `PHYSICAL-CUTOVER-20260822.json`. Atlas live discovery resolves this standalone repository and the old parent `main` path is a non-authoritative tombstone. Historical source revisions/publications remain immutable and Git-recoverable.
