@@ -85,6 +85,24 @@ class NormativeOwnerRecoveryTests(unittest.TestCase):
         self.assertNotIn("subject to owner publication", constitution)
         self.assertIn("Interlocus (historical name: Network)", research_map)
 
+    def test_historical_cross_owner_dogfood_does_not_masquerade_as_current_external_state(self) -> None:
+        dogfood = (ROOT / "DOGFOOD-AND-REGRESSION-EVIDENCE.md").read_text(encoding="utf-8")
+        lineage = (ROOT / "PROGRAMME-N0-N11-LINEAGE.md").read_text(encoding="utf-8")
+        corpus = json.dumps(self.publication, ensure_ascii=False)
+        fence = "ae0e11f330c3961353b1327c32638f1bc41dadaa"
+        self.assertIn(fence, dogfood)
+        self.assertIn(fence, corpus)
+        self.assertIn("source-fenced historical dogfood evidence, not a claim about current Game state", dogfood)
+        self.assertIn("source-fenced historical dogfood evidence, not a claim about current Harness state", dogfood)
+        self.assertIn("current Game bridge applicability requires a fresh owner-native read", lineage)
+        self.assertIn("current Harness bridge applicability requires a fresh owner-native read", lineage)
+        self.assertIn("It is not a current Game-state assertion", corpus)
+        self.assertIn("It is not a current Harness-state assertion", corpus)
+        self.assertNotIn("Current authoritative Game consolidation/materialization", corpus)
+        self.assertNotIn("Current authoritative Harness HaF0–HaF61", corpus)
+        self.assertNotIn("current authoritative Game GDF/GPR semantic constructs", corpus)
+        self.assertNotIn("Current authoritative Harness/Agent authority", corpus)
+
     def test_current_formal_core_and_executable_boundary_are_declared(self) -> None:
         corpus = json.dumps(self.publication, ensure_ascii=False)
         for token, locator in {
