@@ -21,6 +21,15 @@ Executable status is bounded by [EXECUTABLE-BOUNDARY.md](EXECUTABLE-BOUNDARY.md)
 
 The executable witness under `conformance-witness/` is research evidence/tooling only and does not mint semantic authority.
 
+Owner recovery and the disposable witness can be replayed together without a package/runtime dependency plane:
+
+```bash
+scripts/owner-environment test
+scripts/owner-environment cold-start
+```
+
+The gate verifies the current content-addressed owner publication and declared recovery/provenance surfaces before replaying the existing witness. It does not make witness output authoritative, resolve a current normative cut, or admit a production policy service.
+
 ## Phase II operating mode
 
 Phase I foundational discovery is complete. Phase II is governed by [PHASE-II-PROJECT-CONSTITUTION.md](PHASE-II-PROJECT-CONSTITUTION.md): the formal core stays frozen unless a concrete falsifying pressure satisfies the project reopen/admission rules. There is no automatic N13/N14 sequence.
