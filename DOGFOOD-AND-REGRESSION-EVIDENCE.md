@@ -19,7 +19,7 @@ The non-authoritative conformance witness currently replays **66/66 PASS**. This
 
 ## Actual Game dogfood
 
-Authoritative Game inputs: current GDF0–GDF3 consolidation and materialized Game research core.
+Historical N8 Game dogfood input: the then-current GDF0–GDF3 consolidation and materialized Game research core observed by the N8 Host tasks and recorded at exact Normative source fence `ae0e11f330c3961353b1327c32638f1bc41dadaa` (2026-08-19). The external Game repository revision observed by N8 was not preserved here, so this is source-fenced historical dogfood evidence, not a claim about current Game state. Any present-tense Game bridge/applicability judgment must reacquire current owner-native Game evidence.
 
 Result: **PASS / zero CoreFailure**.
 
@@ -32,7 +32,7 @@ Key findings:
 
 ## Actual Harness / Agent authority dogfood
 
-Authoritative Harness input: current HaF0–HaF61 consolidation/family architecture.
+Historical N9 Harness/Agent dogfood input: the then-current HaF0–HaF61 consolidation/family architecture observed by the N9 Host tasks and recorded at exact Normative source fence `ae0e11f330c3961353b1327c32638f1bc41dadaa` (2026-08-19). The external Harness repository revision observed by N9 was not preserved here, so this is source-fenced historical dogfood evidence, not a claim about current Harness state. Any present-tense Harness bridge/applicability judgment must reacquire current owner-native Harness evidence.
 
 Result: **PASS / zero CoreFailure**.
 

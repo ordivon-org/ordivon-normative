@@ -36,11 +36,11 @@ Formal Core Reference Contract v1 was frozen. Eight Game-first semantic fixtures
 
 ## N8 — Actual Game Owner Dogfood
 
-Current Game GDF0–GDF3/GPR constructs mapped to the formal core with zero CoreFailure. Game-specific constitutive/rule/adjudication content remained Game-owned. GDF3 AuthoritativeCaseDetermination did not force a universal determination primitive. C1 GameInstance Constitution/Continuity produced bounded representation ModelPressure only.
+The N8 source-fenced Game GDF0–GDF3/GPR observation mapped to the formal core with zero CoreFailure. Game-specific constitutive/rule/adjudication content remained Game-owned. GDF3 AuthoritativeCaseDetermination did not force a universal determination primitive. C1 GameInstance Constitution/Continuity produced bounded representation ModelPressure only. This remains a frozen historical dogfood result; current Game bridge applicability requires a fresh owner-native read rather than treating N8 as floating current evidence.
 
 ## N9 — Harness / Agent Authority Dogfood
 
-Current Harness authority/lifecycle/evidence/orchestration research mapped with zero CoreFailure. `Authorized/Eligible/Admitted/Scheduled/Dispatched/Executing/Effected/Completed/Final` remained distinct operational roles. Composite authorization reduced to support composition/standing-sufficiency conditions at the normative layer. Evidence did not become truth; Run continuity did not transfer authority.
+The N9 source-fenced Harness authority/lifecycle/evidence/orchestration observation mapped with zero CoreFailure. `Authorized/Eligible/Admitted/Scheduled/Dispatched/Executing/Effected/Completed/Final` remained distinct operational roles. Composite authorization reduced to support composition/standing-sufficiency conditions at the normative layer. Evidence did not become truth; Run continuity did not transfer authority. This remains a frozen historical dogfood result; current Harness bridge applicability requires a fresh owner-native read rather than treating N9 as floating current evidence.
 
 ## N10 — Executable Reference Admission Study
 
