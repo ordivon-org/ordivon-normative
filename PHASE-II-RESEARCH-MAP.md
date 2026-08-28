@@ -113,7 +113,7 @@ This is normally **conformance engineering**, not semantic theory.
 
 ## Frontier H — Domain engineering-consumption tests
 
-Possible consumers include Harness, Game, Finance, Human, World, Runtime, Network and future owner-native systems.
+Possible consumers include Harness, Game, Finance, Human, World, Runtime, Interlocus (historical name: Network), and future owner-native systems.
 
 Typical questions:
 

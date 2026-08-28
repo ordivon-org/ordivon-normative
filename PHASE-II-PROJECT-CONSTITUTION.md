@@ -1,6 +1,6 @@
 # Ordivon Normative Phase II Project Constitution
 
-Status: **CURRENT PROJECT-GOVERNANCE CANDIDATE — subject to owner publication**.
+Status: **CURRENT / FROZEN PROJECT GOVERNANCE — owner-published**.
 
 Phase I established the Ordivon Normative owner boundary, Formal Core Reference Contract v1, frozen counterexample/regression families, Game and Harness/Agent semantic dogfood, a disposable conformance witness, and source-fenced owner publication. Phase II changes the project operating mode.
 

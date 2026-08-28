@@ -78,6 +78,13 @@ class NormativeOwnerRecoveryTests(unittest.TestCase):
                 count += 1
         self.assertEqual(count, 24)
 
+    def test_phase_ii_current_representation_matches_published_standing(self) -> None:
+        constitution = (ROOT / "PHASE-II-PROJECT-CONSTITUTION.md").read_text(encoding="utf-8")
+        research_map = (ROOT / "PHASE-II-RESEARCH-MAP.md").read_text(encoding="utf-8")
+        self.assertIn("CURRENT / FROZEN PROJECT GOVERNANCE — owner-published", constitution)
+        self.assertNotIn("subject to owner publication", constitution)
+        self.assertIn("Interlocus (historical name: Network)", research_map)
+
     def test_current_formal_core_and_executable_boundary_are_declared(self) -> None:
         corpus = json.dumps(self.publication, ensure_ascii=False)
         for token, locator in {
