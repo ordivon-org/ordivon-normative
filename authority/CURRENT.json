@@ -1,6 +1,6 @@
 {
   "authorityRef": "authority:ordivon:research-owner:ordivon-normative",
-  "currentAuthorityVersionRef": "sha256:de5ee851f7df3d0fc0591248a761edd9529596c55e79760e4454df084f5d8719",
+  "currentAuthorityVersionRef": "sha256:ee5ee851f7df3d0fc0591248a761edd9529596c55e79760e4454df084f5d8719",
   "kind": "ordivon.research-owner-current",
   "ownerResearchRef": "research-owner:ordivon-normative",
   "previousAuthorityVersionRef": "sha256:f05ee2de3ebdf2b47fae3951f652a0e38089d328e0bdeeca563553407b78a78c",
